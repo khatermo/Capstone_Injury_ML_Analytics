@@ -2,7 +2,7 @@
 
 
 
-This project contains two Jupyter Notebooks. The notebooks include Exploratory Analysis, Model Building, evaluaion & selection, and hyperparameter tuning. It is throughly annotated and will explain what we did at each step.
+This project contains two Jupyter Notebooks. The notebooks include Exploratory Analysis, Model Building, evaluaion & selection, and hyperparameter tuning. It is thoroughly annotated and will explain what we did at each step.
 
  Summary:
 	Leading analysis and modelling on capstone project for Infrastructure Health and Safety Association.
